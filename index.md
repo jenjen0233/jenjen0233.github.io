@@ -1,33 +1,41 @@
-## Selected Projects in Data Sciece  
+# Selected Projects in Data Sciece  
 
 ---
 
 ### Baltimore County Department of Age Project
-
 <br><br>
 In an effort of understanding the needs of seniors who are struggling the most, Baltimore County combined AWA surveys with members' demographic information to identify potential demographic factors that could influence health disparities in the county' s population. I assisted with data cleaning, analysis, and creating dashboard reports for stakeholders. The reports informed decision-making on resource allocation to improve the well-being of seniors in a specific center.  
 <br><br>
-
 <img src="/images/BCDA.png?raw=True"/>
 
 [View Code on GoogleColab]([http://example.com/](https://colab.research.google.com/drive/1TBanjYoJ5ga4D1CxTH9QZZnCjoU1JqAB?usp=sharing)
 
 
 ---
-[HomeShare Data Analysis](/pdf/sample_presentation.pdf)
+### Home Credit Default Credit Risk/ Machine Learning
+<br><br>
+In an effort of understanding the needs of seniors who are struggling the most, Baltimore County combined AWA surveys with members' demographic information to identify potential demographic factors that could influence health disparities in the county' s population. I assisted with data cleaning, analysis, and creating dashboard reports for stakeholders. The reports informed decision-making on resource allocation to improve the well-being of seniors in a specific center.  
+<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[View Code on GoogleColab]([http://example.com/](https://colab.research.google.com/drive/1TBanjYoJ5ga4D1CxTH9QZZnCjoU1JqAB?usp=sharing)
 ---
 
-### Course Projects
+### Allegion Customer Review Sentiment Analysis/ NLP
+<br><br>
+In an effort of understanding the needs of seniors who are struggling the most, Baltimore County combined AWA surveys with members' demographic information to identify potential demographic factors that could influence health disparities in the county' s population. I assisted with data cleaning, analysis, and creating dashboard reports for stakeholders. The reports informed decision-making on resource allocation to improve the well-being of seniors in a specific center.  
+<br><br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- [Home Credit Default Credit Risk/ Machine Learning](http://example.com/)
-- [Allegion Customer Review Analysis/ NLP](http://example.com/)
-- [MongoDB Recipe App/ SQL&NoSQL](http://example.com/)
-- [Rental Data Analysis/ Webscraping](http://example.com/)
-
+[View Code on GoogleColab]([http://example.com/](https://colab.research.google.com/drive/1TBanjYoJ5ga4D1CxTH9QZZnCjoU1JqAB?usp=sharing)
 ---
+### Rental Data Analysis/ Webscraping
+<br><br>
+In an effort of understanding the needs of seniors who are struggling the most, Baltimore County combined AWA surveys with members' demographic information to identify potential demographic factors that could influence health disparities in the county' s population. I assisted with data cleaning, analysis, and creating dashboard reports for stakeholders. The reports informed decision-making on resource allocation to improve the well-being of seniors in a specific center.  
+<br><br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[View Code on GoogleColab]([http://example.com/](https://colab.research.google.com/drive/1TBanjYoJ5ga4D1CxTH9QZZnCjoU1JqAB?usp=sharing)
 
 
 
