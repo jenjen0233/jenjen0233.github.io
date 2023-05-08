@@ -2,9 +2,9 @@
 
 ---
 
-### Internship and Fellowship
+### Baltimore County Department of Age Project
 
-[Baltimore County Department of Age Project](/sample_page)
+In an effort of understanding the needs of seniors who are struggling the most, Baltimore County combined AWA surveys with members' demographic information to identify potential demographic factors that could influence health disparities in the county' s population. I assisted with data cleaning, analysis, and creating dashboard reports for stakeholders. The reports informed decision-making on resource allocation to improve the well-being of seniors in a specific center.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
