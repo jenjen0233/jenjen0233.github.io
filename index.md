@@ -6,10 +6,10 @@
 <br>
 In an effort of understanding the needs of seniors who are struggling the most, Baltimore County combined AWA surveys with members' demographic information to identify potential demographic factors that could influence health disparities in the county' s population. I assisted with data cleaning, analysis, and creating dashboard reports for stakeholders. The reports informed decision-making on resource allocation to improve the well-being of seniors in a specific center.  
 <br>
+
 <img src="/images/BCDA.png?raw=True"/>
 
-[View Code on GoogleColab]([[http://example.com/](https://colab.research.google.com/drive/1TBanjYoJ5ga4D1CxTH9QZZnCjoU1JqAB?usp=sharing](https://colab.research.google.com/drive/1KL7-R-3gR0Vj92b_nOTd0yjOWgzMIn5p?usp=sharing))
-
+<a href="[https://www.linkedin.com/in/jennifer-ma-951883164/](https://colab.research.google.com/drive/1KL7-R-3gR0Vj92b_nOTd0yjOWgzMIn5p?usp=sharing)">View Code on GoogleColab</a> 
 
 ---
 ### Home Credit Default Credit Risk/ Machine Learning
