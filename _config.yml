@@ -1,10 +1,17 @@
 title: Jennifer Ma # your name (or website title) here
-logo: "/images/Jennifer_Ma_Headshot.png?raw=true" # your photo (or logo) here
+<img src="/images/Jennifer_Ma_Headshot.png?raw=true" alt="Jennifer Ma" class="profile-pic">
+<style>
+.profile-pic {
+  width: 150px; /* Change the width to your desired size */
+  height: 150px; /* Change the height to your desired size */
+  border-radius: 50%; /* This makes the image round */
+  object-fit: cover; /* This ensures the image fills the circle */
+  object-position: center; /* This centers the image in the circle */
+}
+</style>
+#logo: "/images/Jennifer_Ma_Headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello and welcome to my portfolio page! My name is Jennifer Ma, and I am an aspiring data scientist with a strong interest in health care. I am passionate about using data to improve health outcomes and am constantly seeking ways to apply my skills to this field.
-  <br><br>
-  Thank you for taking the time to visit my portfolio page. Please feel free to explore my work and contact me if you have any questions or would like to discuss potential opportunities.
-  <br><br>
   <a href="https://www.linkedin.com/in/jennifer-ma-951883164/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
