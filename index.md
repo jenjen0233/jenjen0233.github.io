@@ -1,29 +1,24 @@
-## Portfolio
+## Selected Projects in Data Sciece  
 
 ---
 
-### Category Name 1 
+### Internship and Fellowship
 
-[Project 1 Title](/sample_page)
+[Baltimore County Department of Age Project](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[HomeShare Data Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Course Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Home Credit Default Credit Risk/ Machine Learning](http://example.com/)
+- [Allegion Customer Review Analysis/ NLP](http://example.com/)
+- [MongoDB Recipe App/ SQL&NoSQL](http://example.com/)
+- [Rental Data Analysis/ Webscraping](http://example.com/)
 
 ---
 
