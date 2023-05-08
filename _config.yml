@@ -1,5 +1,5 @@
 title: Jennifer Ma # your name (or website title) here
-<img src="/images/Jennifer_Ma_Headshot.png?raw=true" alt="Jennifer Ma" class="profile-pic">
+logo: <img src="/images/Jennifer_Ma_Headshot.png?raw=true" alt="Jennifer Ma" class="profile-pic">
 <style>
 .profile-pic {
   width: 150px; /* Change the width to your desired size */
