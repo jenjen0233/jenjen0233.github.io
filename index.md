@@ -20,7 +20,7 @@ In an effort of understanding the needs of seniors who are struggling the most, 
 Home Credit launched a Kaggle competition to develop a successful predictive model based on diverse data points such as credit and cash transactions, demographics, and past applications to help the unbanked to achieve their financial goals safely and positively. In this project, we explored datasets, used automatic feature engineering tools like featuretools to create new features, and applied the advanced neural network, Pytorch Lightning to build a predictive model with the best AUC of 0.74.
 <br><br>
 
-[View Code on GoogleColab](https://colab.research.google.com/drive/1KL7-R-3gR0Vj92b_nOTd0yjOWgzMIn5p?usp=sharing](https://drive.google.com/file/d/1AVqnX0dB1pnS8S5FDDrTH-WhJcE3H9nd/view?usp=sharing)
+[View Code on GoogleColab](https://drive.google.com/file/d/1AVqnX0dB1pnS8S5FDDrTH-WhJcE3H9nd/view?usp=sharing)
 
 ---
 
