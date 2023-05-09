@@ -9,8 +9,6 @@ In an effort of understanding the needs of seniors who are struggling the most, 
 
 <img src="/images/BCDA.png?raw=True"/>
 
-[View Code on GoogleColab](https://colab.research.google.com/drive/1KL7-R-3gR0Vj92b_nOTd0yjOWgzMIn5p?usp=sharing)
-
 
 ---
 
