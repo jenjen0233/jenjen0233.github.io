@@ -11,21 +11,21 @@ In an effort of understanding the needs of seniors who are struggling the most, 
 
 ---
 
+### Allegion Customer Review Sentiment Analysis / NLP
+<br>
+As a team of three, we completed a Customer Review Sentiment Analysis final project for Allegion PLC, a provider of security products for home and business. Using sentiment analysis, keyword extraction, and topic modeling techniques, we cleaned and analyzed a dataset of 30,000 customer reviews. Our findings revealed that positive reviews were largely related to installation, appearance, and ease of use, while negative reviews were associated with issues such as product durability, keypad functionality, and customer service. We also observed a decline in positive reviews at the beginning of 2020 and the negative reviews around that time were specifically related to Allegion's mobile application.
+<br><br>
+
+<img src="/images/topics.png?raw=True"/>
+
+---
+
 ### Home Credit Default Risk / Machine Learning
 <br>
 Home Credit launched a Kaggle competition to develop a successful predictive model based on diverse data points such as credit and cash transactions, demographics, and past applications to help the unbanked to achieve their financial goals safely and positively. In the team project, we explored datasets, used automatic feature engineering tools like featuretools to create new features, and applied the advanced neural network, Pytorch Lightning to build a predictive model with the best AUC of 0.74.
 <br><br>
 
 [View Code on GoogleColab](https://drive.google.com/file/d/1AVqnX0dB1pnS8S5FDDrTH-WhJcE3H9nd/view?usp=sharing)
-
----
-
-### Allegion Customer Review Sentiment Analysis / NLP
-<br>
-As a team of three, we completed a Customer Review Sentiment Analysis final project for Allegion PLC, a provider of security products for home and business. Using sentiment analysis, keyword extraction, and topic modeling techniques, we cleaned and analyzed a dataset of 30,000 customer reviews. Our findings revealed that positive reviews were largely related to installation, appearance, and ease of use, while negative reviews were associated with issues such as product durability, keypad functionality, and customer service. We also observed a decline in positive reviews at the beginning of 2020 and the negative reviews around that time were specifically related to Allegion's mobile application.
-<br><br>
-
-<img src="/images/BCDA.png?raw=True"/>
 
 ---
 
