@@ -10,6 +10,8 @@ In an effort of understanding the needs of seniors who are struggling the most, 
 
 <img src="/images/BCDA.png?raw=True"/>
 
+<i>The codes can not be shared because of the presence of confidential data</i>
+
 ---
 
 ### Allegion Customer Review Sentiment Analysis / NLP
@@ -19,6 +21,8 @@ As a team of three, we completed a Customer Review Sentiment Analysis final proj
 <br>
 
 <img src="/images/topics.png?raw=True"/>
+
+<i>The codes can not be shared because of the presence of confidential data</i>
 
 ---
 
