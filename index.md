@@ -40,6 +40,6 @@ In addition to recipe retrieval, users could create an account, rate recipes, an
 </div>
 <br>
 
-[View Code on Github](https://github.iu.edu/jennma/Team20-Heroku)
+[View Code on Github](https://github.iu.edu/Fall-2022-D532/Team20-Heroku)
 
 ---
