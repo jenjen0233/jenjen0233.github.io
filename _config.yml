@@ -5,6 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hello and welcome to my portfolio page! My name is Jennifer Ma, and I am an aspiring data scientist with a strong interest in health care. I am passionate about using data to improve health outcomes and am constantly seeking ways to apply my skills to this field.
   <br>  
   <br>
-  <a href="https://www.linkedin.com/in/jennifer-ma-951883164/">View My LinkedIn Profile</a> 
+  <br><a href="https://www.linkedin.com/in/jennifer-ma-951883164/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
