@@ -8,7 +8,7 @@ In an effort of understanding the needs of seniors who are struggling the most, 
 </div>
 <br>
 
-<img src="/images/BCDA.png?raw=True"/>
+<img src="/images/bcda_looker.png?raw=True"/>
 
 * The codes can not be shared because of the presence of confidential data
 
