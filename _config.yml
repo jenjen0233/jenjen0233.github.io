@@ -2,8 +2,7 @@ title: Jennifer Ma # your name (or website title) here
 logo: "/images/Jennifer_Ma_Headshot.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Hello and welcome to my portfolio page! I'm Jennifer Ma, an aspiring data scientist with a keen interest in leveraging data to drive business insights and facilitate effective decision-making. My passion lies in utilizing data analysis and visualization techniques to solve complex business challenges and explore opportunities for innovation.
-  <br>
+Hello and welcome to my portfolio page! I'm Jennifer Ma, an aspiring data scientist passionate about applying data analysis and visualization techniques to unravel intricate business challenges and explore opportunities for innovation. As a critical problem solver, I am actively seeking ways to improve and overcome challenges. Join me on this journey of exploration and problem-solving in the dynamic field of data science.
   <br><a href="https://www.linkedin.com/in/jennifer-ma-951883164/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
