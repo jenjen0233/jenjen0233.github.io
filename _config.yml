@@ -1,8 +1,7 @@
 title: Jennifer Ma # your name (or website title) here
 logo: "/images/Jennifer_Ma_Headshot.png?raw=true"
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-As an aspiring data scientist, I am deeply passionate about utilizing the power of data to drive positive change and make a meaningful impact. My passion lies in how we can leverage data to solve complex problems for social good.
-  <br><a href="https://www.linkedin.com/in/jennifer-ma-951883164/">View My LinkedIn Profile</a> 
-  
+description: |
+  As an aspiring data scientist, I am deeply passionate about utilizing the power of data to drive positive change and make a meaningful impact. My passion lies in how we can leverage data to solve complex problems for social good.
+  [View My LinkedIn Profile](https://www.linkedin.com/in/jennifer-ma-951883164/)
+
 theme: jekyll-theme-minimal
