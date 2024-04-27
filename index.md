@@ -32,7 +32,7 @@ Home Credit launched a Kaggle competition to develop a successful predictive mod
 </div>
 <br>
 
-[View Code on GoogleColab](https://drive.google.com/file/d/1AVqnX0dB1pnS8S5FDDrTH-WhJcE3H9nd/view?usp=sharing)
+[View Code on Github](https://github.com/jenjen0233/HCDR_github)
 
 ---
 
